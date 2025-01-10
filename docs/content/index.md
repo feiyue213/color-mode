@@ -73,7 +73,7 @@ console.log(colorMode.preference)
 
 <style>
 body {
-  background-color: #fff;
+  background-color: #8C61FE;
   color: rgba(0,0,0,0.8);
 }
 .dark-mode body {
